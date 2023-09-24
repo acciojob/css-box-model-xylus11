@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.id{
+	width:200px;
+	background-color:skyblue;
+	padding:50px;
+	margin:20px;
+	border:15px solid blue;
+	box-sizing: content-box;
+
+	
+}
