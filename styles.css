@@ -2,11 +2,11 @@
 /* Your CSS Code here. */
 .id{
 	width:300px;
-	background-color:skyblue;
+	background-color:lightblue;
 	padding:50px;
 	margin:20px;
 	border:15px solid blue;
-	box-sizing: content-box;
+	box-sizing: border-box;
 
 	
 }
