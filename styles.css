@@ -1,12 +1,13 @@
 
 /* Your CSS Code here. */
 body{
-	margin:20px;
+	
 }
 #id{
 	width:300px;
 	background-color:lightblue;
 	padding:50px;
+	margin:20px;
 	border:15px solid blue;
 	box-sizing: border-box;
 
